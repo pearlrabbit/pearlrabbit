@@ -1,6 +1,5 @@
-### Hi there 👋
-	## Web Developer
 
+## Web Developer
 #### :computer: ​`Tech stack`
 
 - Java, Javascript(ES5,ES6), Jquery, HTML5
